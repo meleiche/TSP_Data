@@ -1,0 +1,502 @@
+Writing Counter to a file:
+Links  = 289
+Nodes  = 17
+C_In   = 0
+C_Out  = 0
+Graphs = 0
+Live_Graphs  = 0
+Virgin_Nodes = 0
+TSP_Cost_Out = 0
+TSP_Cost_In  = 0
+Sort = 0
+Writing Counter to a file:
+Links  = 289
+Nodes  = 17
+C_In   = 0
+C_Out  = 0
+Graphs = 0
+Live_Graphs  = 0
+Virgin_Nodes = 0
+TSP_Cost_Out = 0
+TSP_Cost_In  = 0
+Sort = 0
+***********************************************************
+          L I N K     A R R A Y    D A T A 
+***********************************************************
+    From_Node    To_Node     Length 
+    ==========  ==========  ========== 
+         1           1  1.84467e+19
+         1           2           3
+         1           3           5
+         1           4          48
+         1           5          48
+         1           6           8
+         1           7           8
+         1           8           5
+         1           9           5
+         1          10           3
+         1          11           3
+         1          12           0
+         1          13           3
+         1          14           5
+         1          15           8
+         1          16           8
+         1          17           5
+         2           1           3
+         2           2  1.84467e+19
+         2           3           3
+         2           4          48
+         2           5          48
+         2           6           8
+         2           7           8
+         2           8           5
+         2           9           5
+         2          10           0
+         2          11           0
+         2          12           3
+         2          13           0
+         2          14           3
+         2          15           8
+         2          16           8
+         2          17           5
+         3           1           5
+         3           2           3
+         3           3  1.84467e+19
+         3           4          72
+         3           5          72
+         3           6          48
+         3           7          48
+         3           8          24
+         3           9          24
+         3          10           3
+         3          11           3
+         3          12           5
+         3          13           3
+         3          14           0
+         3          15          48
+         3          16          48
+         3          17          24
+         4           1          48
+         4           2          48
+         4           3          72
+         4           4  1.84467e+19
+         4           5           0
+         4           6           6
+         4           7           6
+         4           8          12
+         4           9          12
+         4          10          48
+         4          11          48
+         4          12          48
+         4          13          48
+         4          14          72
+         4          15           6
+         4          16           6
+         4          17          12
+         5           1          48
+         5           2          48
+         5           3          72
+         5           4           0
+         5           5  1.84467e+19
+         5           6           6
+         5           7           6
+         5           8          12
+         5           9          12
+         5          10          48
+         5          11          48
+         5          12          48
+         5          13          48
+         5          14          72
+         5          15           6
+         5          16           6
+         5          17          12
+         6           1           8
+         6           2           8
+         6           3          48
+         6           4           6
+         6           5           6
+         6           6  1.84467e+19
+         6           7           0
+         6           8           8
+         6           9           8
+         6          10           8
+         6          11           8
+         6          12           8
+         6          13           8
+         6          14          48
+         6          15           0
+         6          16           0
+         6          17           8
+         7           1           8
+         7           2           8
+         7           3          48
+         7           4           6
+         7           5           6
+         7           6           0
+         7           7  1.84467e+19
+         7           8           8
+         7           9           8
+         7          10           8
+         7          11           8
+         7          12           8
+         7          13           8
+         7          14          48
+         7          15           0
+         7          16           0
+         7          17           8
+         8           1           5
+         8           2           5
+         8           3          24
+         8           4          12
+         8           5          12
+         8           6           8
+         8           7           8
+         8           8  1.84467e+19
+         8           9           0
+         8          10           5
+         8          11           5
+         8          12           5
+         8          13           5
+         8          14          24
+         8          15           8
+         8          16           8
+         8          17           0
+         9           1           5
+         9           2           5
+         9           3          24
+         9           4          12
+         9           5          12
+         9           6           8
+         9           7           8
+         9           8           0
+         9           9  1.84467e+19
+         9          10           5
+         9          11           5
+         9          12           5
+         9          13           5
+         9          14          24
+         9          15           8
+         9          16           8
+         9          17           0
+        10           1           3
+        10           2           0
+        10           3           3
+        10           4          48
+        10           5          48
+        10           6           8
+        10           7           8
+        10           8           5
+        10           9           5
+        10          10  1.84467e+19
+        10          11           0
+        10          12           3
+        10          13           0
+        10          14           3
+        10          15           8
+        10          16           8
+        10          17           5
+        11           1           3
+        11           2           0
+        11           3           3
+        11           4          48
+        11           5          48
+        11           6           8
+        11           7           8
+        11           8           5
+        11           9           5
+        11          10           0
+        11          11  1.84467e+19
+        11          12           3
+        11          13           0
+        11          14           3
+        11          15           8
+        11          16           8
+        11          17           5
+        12           1           0
+        12           2           3
+        12           3           5
+        12           4          48
+        12           5          48
+        12           6           8
+        12           7           8
+        12           8           5
+        12           9           5
+        12          10           3
+        12          11           3
+        12          12  1.84467e+19
+        12          13           3
+        12          14           5
+        12          15           8
+        12          16           8
+        12          17           5
+        13           1           3
+        13           2           0
+        13           3           3
+        13           4          48
+        13           5          48
+        13           6           8
+        13           7           8
+        13           8           5
+        13           9           5
+        13          10           0
+        13          11           0
+        13          12           3
+        13          13  1.84467e+19
+        13          14           3
+        13          15           8
+        13          16           8
+        13          17           5
+        14           1           5
+        14           2           3
+        14           3           0
+        14           4          72
+        14           5          72
+        14           6          48
+        14           7          48
+        14           8          24
+        14           9          24
+        14          10           3
+        14          11           3
+        14          12           5
+        14          13           3
+        14          14  1.84467e+19
+        14          15          48
+        14          16          48
+        14          17          24
+        15           1           8
+        15           2           8
+        15           3          48
+        15           4           6
+        15           5           6
+        15           6           0
+        15           7           0
+        15           8           8
+        15           9           8
+        15          10           8
+        15          11           8
+        15          12           8
+        15          13           8
+        15          14          48
+        15          15  1.84467e+19
+        15          16           0
+        15          17           8
+        16           1           8
+        16           2           8
+        16           3          48
+        16           4           6
+        16           5           6
+        16           6           0
+        16           7           0
+        16           8           8
+        16           9           8
+        16          10           8
+        16          11           8
+        16          12           8
+        16          13           8
+        16          14          48
+        16          15           0
+        16          16  1.84467e+19
+        16          17           8
+        17           1           5
+        17           2           5
+        17           3          24
+        17           4          12
+        17           5          12
+        17           6           8
+        17           7           8
+        17           8           0
+        17           9           0
+        17          10           5
+        17          11           5
+        17          12           5
+        17          13           5
+        17          14          24
+        17          15           8
+        17          16           8
+        17          17  1.84467e+19
+***********************************************************
+              N O D E    A R R A Y     
+***********************************************************
+      Cost in    Previous        ID           Next         Cost out    Status       Graph
+    ==========  ==========  ==========     ==========     ==========  ==========  ========== 
+         0           0           1           0           0           0           0
+         0           0           2           0           0           0           0
+         0           0           3           0           0           0           0
+         0           0           4           0           0           0           0
+         0           0           5           0           0           0           0
+         0           0           6           0           0           0           0
+         0           0           7           0           0           0           0
+         0           0           8           0           0           0           0
+         0           0           9           0           0           0           0
+         0           0          10           0           0           0           0
+         0           0          11           0           0           0           0
+         0           0          12           0           0           0           0
+         0           0          13           0           0           0           0
+         0           0          14           0           0           0           0
+         0           0          15           0           0           0           0
+         0           0          16           0           0           0           0
+         0           0          17           0           0           0           0
+*****************************************************************************
+              M I N     T R A V E L    A R R A Y - Z e r o   V a l u e s     
+*****************************************************************************
+      Sort in      Cost in       Previous      ID         Next         Cost out       Sort Out   Cost Travel Sort Travel 
+      =======      ========      ========   ==========   =======      ==========     ==========  =========== =========== 
+         0           0             0           1           0              0              0           0           0
+         0           0             0           2           0              0              0           0           0
+         0           0             0           3           0              0              0           0           0
+         0           0             0           4           0              0              0           0           0
+         0           0             0           5           0              0              0           0           0
+         0           0             0           6           0              0              0           0           0
+         0           0             0           7           0              0              0           0           0
+         0           0             0           8           0              0              0           0           0
+         0           0             0           9           0              0              0           0           0
+         0           0             0          10           0              0              0           0           0
+         0           0             0          11           0              0              0           0           0
+         0           0             0          12           0              0              0           0           0
+         0           0             0          13           0              0              0           0           0
+         0           0             0          14           0              0              0           0           0
+         0           0             0          15           0              0              0           0           0
+         0           0             0          16           0              0              0           0           0
+         0           0             0          17           0              0              0           0           0
+Writing Total Cost:
+========================
+Total Incident Cost  = 0
+Total Outgoing Cost  = 0
+*****************************************************************************
+              M I N     T R A V E L    A R R A Y - S A M E   N O D E      
+*****************************************************************************
+      Sort in      Cost in       Previous      ID         Next         Cost out       Sort Out   Cost Travel Sort Travel
+    ==========  ==========     ==========  ==========  ==========     ==========     ==========  ==========  ========== 
+         0           0            12           1          12              0              0           0           0
+         0           0            10           2          10              0              0           0           0
+         0           0            14           3          14              0              0           0           0
+         0           0             5           4           5              0              0           0           0
+         0           0             4           5           4              0              0           0           0
+         0           0             7           6           7              0              0           0           0
+         0           0             6           7           6              0              0           0           0
+         0           0             9           8           9              0              0           0           0
+         0           0             8           9           8              0              0           0           0
+         0           0             2          10           2              0              0           0           0
+         0           0             2          11           2              0              0           0           0
+         0           0             1          12           1              0              0           0           0
+         0           0             2          13           2              0              0           0           0
+         0           0             3          14           3              0              0           0           0
+         0           0             6          15           6              0              0           0           0
+         0           0             6          16           6              0              0           0           0
+         0           0             8          17           8              0              0           0           0
+Writing Total Cost:
+========================
+Total Incident Cost  = 0
+Total Outgoing Cost  = 0
+            >>>>>>>     End of:  Fill_Min_Travel_Array()  
+ >>>>> XXX       Node  = 1  
+Node Same = 1  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 3         second_out_cost = 3  
+         cc = 1  
+ >>>>> XXX       Node  = 2  
+Node Same = 2  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 3  
+Node Same = 3  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 3         second_out_cost = 3  
+         cc = 1  
+ >>>>> XXX       Node  = 4  
+Node Same = 4  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 6         second_out_cost = 6  
+         cc = 1  
+ >>>>> XXX       Node  = 5  
+Node Same = 5  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 6         second_out_cost = 6  
+         cc = 1  
+ >>>>> XXX       Node  = 6  
+Node Same = 6  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 7  
+Node Same = 7  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 8  
+Node Same = 8  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 9  
+Node Same = 9  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 10  
+Node Same = 10  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 11  
+Node Same = 11  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 12  
+Node Same = 12  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 3         second_out_cost = 3  
+         cc = 1  
+ >>>>> XXX       Node  = 13  
+Node Same = 13  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 14  
+Node Same = 14  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 3         second_out_cost = 3  
+         cc = 1  
+ >>>>> XXX       Node  = 15  
+Node Same = 15  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 16  
+Node Same = 16  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+ >>>>> XXX       Node  = 17  
+Node Same = 17  
+         first_cost_in = 0         first_cost_out = 0  
+         second_in_cost = 0         second_out_cost = 0  
+         cc = 1  
+*****************************************************************************
+ M I N     T R A V E L    A R R A Y - S A M E   N O D E  P r e v e n t e d   
+*****************************************************************************
+      Sort in      Cost in       Previous      ID         Next         Cost out       Sort Out   Cost Travel Sort Travel
+    ==========  ==========     ==========  ==========  ==========     ==========     ==========  ==========  ========== 
+         0           0            12           1           2              3              0           0           0
+         0           0            10           2          11              0              0           0           0
+         0           0            14           3           2              3              0           0           0
+         0           0             5           4           6              6              0           0           0
+         0           0             4           5           6              6              0           0           0
+         0           0             7           6          15              0              0           0           0
+         0           0             6           7          15              0              0           0           0
+         0           0             9           8          17              0              0           0           0
+         0           0             8           9          17              0              0           0           0
+         0           0             2          10          11              0              0           0           0
+         0           0             2          11          10              0              0           0           0
+         0           0             1          12           2              3              0           0           0
+         0           0             2          13          10              0              0           0           0
+         0           0             3          14           2              3              0           0           0
+         0           0             6          15           7              0              0           0           0
+         0           0             6          16           7              0              0           0           0
+         0           0             8          17           9              0              0           0           0
+Writing Total Cost:
+========================
+Total Incident Cost  = 0
+Total Outgoing Cost  = 24
